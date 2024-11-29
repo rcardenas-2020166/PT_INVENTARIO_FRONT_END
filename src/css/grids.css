@@ -1,0 +1,13 @@
+.ag-theme-quartz {
+    --ag-background-color: rgb(241, 247, 255);
+    --ag-header-background-color: rgb(228, 237, 250);
+    --ag-row-hover-color: rgb(216, 226, 255);
+  }
+  
+  .dark .ag-theme-quartz {
+    --ag-foreground-color: rgb(220, 220, 220);
+    --ag-background-color: rgb(29, 42, 57);
+    --ag-header-background-color: rgb(58, 63, 72);
+    --ag-row-hover-color: rgb(70, 75, 85);
+  }
+  
