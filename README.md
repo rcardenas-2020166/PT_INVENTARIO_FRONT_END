@@ -6,4 +6,4 @@ Capa del Cliente
 
 #### Comienzo del Versionamiento.
 
-### Version 1.0.0 - [Agosto 23, 2024]
+### Version 1.0.0 - [Noviembre 28, 2024]
